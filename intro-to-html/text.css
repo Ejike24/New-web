@@ -1,0 +1,66 @@
+.video-tittle{
+ font-family: roboto;
+ font-weight: bold;
+ font-size: 18px;
+ width: 300px;
+ line-height: 24px;
+ margin-bottom: 5;
+ 
+ }
+ 
+ .video-stats {
+  font-family: arial;
+  font-size: 13px;
+  color:rgb(96, 96, 96);
+  margin-top: 10;
+ 
+ }
+ .video-author {
+  box-sizing: border-box;
+ color: rgb(96, 96, 96);
+ display: block;
+ font-family: Arial;
+ font-size: 14px;
+ font-weight: 400;
+ height: 21px;
+ line-height: 21px;
+ margin-block-end: 16px;
+ margin-block-start: 0px;
+ margin-bottom: 16px;
+ margin-inline-end: 0px;
+ margin-inline-start: 0px;
+ margin-top: 0px;
+ text-size-adjust: 100%;
+ width: 284px;
+ -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+ margin-bottom: 20px;
+ }
+ 
+ .video-description {
+  font-family: arial;
+  font-size: 14px;
+  width: 280px;
+  line-height: 22px;
+  margin-bottom: 100;
+  
+ }
+ 
+ .apple-text {
+  margin-bottom: 50px;
+  font-family: arial;
+  font-size: 14px;
+  background-color:rgb(227, 65, 64);
+  color: white;
+  text-align: center;
+  padding-top: 18px;
+  padding-bottom: 18px;
+ }
+ 
+ .shop-link {
+  cursor: pointer;
+ }
+ 
+ 
+ .shop-link:hover {
+  Text-decoration: underline;
+ }

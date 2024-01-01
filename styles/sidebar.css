@@ -1,0 +1,13 @@
+.sidebar {
+ position: fixed;
+ left: 0;
+ bottom: 0;
+ top: 55px;
+ background-color: white;
+ widows: 72px;
+}
+
+
+.sidebar-link {
+ background-color: lightblue;
+}
